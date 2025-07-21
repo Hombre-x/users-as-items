@@ -1,0 +1,7 @@
+[submodule "users-as-items-producer"]
+	path = users-as-items-producer
+	url = https://github.com/hombre-x/users-as-items-producer.git
+
+[submodule "users-as-items-consumer"]
+	path = users-as-items-consumer
+	url = https://github.com/hombre-x/users-as-items-consumer.git
